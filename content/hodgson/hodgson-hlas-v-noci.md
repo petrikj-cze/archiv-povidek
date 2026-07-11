@@ -7,7 +7,6 @@ translator: Jaroslav Petřík
 translatorNote: "Toto dílo je v Public Domain po celém světě, protože autor zemřel před více než 100 lety."
 firstPublished: 1907
 genre: Horor
-cover: hlas-v-noci.png
 readingTime: 18
 translationVersion: 1.0
 status: draft
@@ -17,13 +16,13 @@ originalUrl: https://en.wikisource.org/wiki/Avon_Fantasy_Reader/Issue_01/The_Voi
 rights: Public Domain
 ---
 
-Byla temná noc bez jediné hvězdy. Uvízli jsme kdesi v Severním Pacifiku. Nedokážu určit naši přesnou polohu, neboť slunce bylo po celý ten únavný a dusný týden skryto za lehkým oparem. Vznášel se ve výšce stěžňů a čas od času klesal a zahaloval i moře.
+Byla temná noc bez jediné hvězdy. Uvízli jsme v Severním Pacifiku. Naši přesnou pozici neznám, neboť slunce bylo po celý ten únavný a dusný týden skryto za lehkým oparem. Vznášel se ve výšce stěžňů a čas od času klesal a zahaloval okolní moře.
 
-Protože nevál žádný vítr, pevně jsme zajistili kormidlo a já zůstal jediným člověkem na palubě. Zbytek posádky, skládající se z dvou mužů a jednocho chlapce, spal ve svých kutlosích na přídi. Will, kapitán naší malé lodi a můj přítel, zase v malé kajutě na zádi. 
+Protože nevál žádný vítr, pevně jsme zajistili kormidlo a já zůstal jediným člověkem na palubě. Zbytek posádky, skládající se z dvou mužů a jednocho chlapce, spal ve svých kutlosích na přídi. Will, můj přítel a kapitán naší malé lodi, zase v malé kajutě na zádi. 
 
 Znenadání se z okolní tmy ozvalo volání: „Škunere, ahoj!“
 
-Výkřik byl tak nečekaný, že jsem nedokázal okamžitě odpovědět a zůstal jsem ohroměně mlčet. Ozval se ale znovu. Hrdelní, nelidský hlas přicházející z temnoty daleko od našeho levoboku: „Škunere, ahoj!“
+Výkřik byl tak nečekaný, že jsem překvapením nedokázal okamžitě odpovědět. Ozval se znovu. Hrdelní, nelidský hlas volající z temného moře daleko od našeho levoboku: „Škunere, ahoj!“
 
 „Ahoj!“ Ozval jsem se, když jsem se trochu vzpamatoval. „Co jsi zač? Co chceš?“
 
@@ -31,13 +30,13 @@ Výkřik byl tak nečekaný, že jsem nedokázal okamžitě odpovědět a zůsta
 
 Pauza mezi poslednými slovy zněla nadmíru podivně. Tehdy jsem tomu nevěnoval pozornost, ale později mi to došlo.
 
-„Proč se tedy nepřiblížíš?“ zeptal jsem se rázně a doufal jsem, že nepozná jak jsem vyděšený.
+„Proč se tedy nepřiblížíš?“ zeptal jsem se rázně a doufal, že nepozná jak jsem zaskočený.
 
-„Já... Já... nemůžu. Nebylo by to bezpečné. Já...“ Hlas se náhle zlomil a zavládlo ticho. 
+„Já... Já... nemůžu. Nebylo by to bezpečné. Já...“ Hlas náhle umlkl a zavládlo ticho. 
 
-„Co tím myslíš?“ zeptal jsem a moje vyděšení rostlo. „Jak to, že by to nebylo bezpečné? Kde jsi?“
+„Co tím myslíš?“ zeptal jsem se, více a více zaskočený. „Jak to, že by to nebylo bezpečné? Kde jsi?“
 
-Chvíli jsem poslouchal, ale nepřišla žádná opověď. A pak jsem pojal neurčité podezření, že vlastně vůbec nevím co tam je. Rychle jsem přistoupil ke kompasové skříni a vyňal rozsvícenou lampu. Ve stejný čas jsem zaklepal do paluby patou, abych vzbudil Willa. To už jsem stál na boku lodi a mířil žlutý kužel světla ven do tiché nesmírnosti za zábradlím. Jakmile jsem to udělal, uslyšel jsem mírný tlumený výkřik a pak zvuk šplouchnutí, jakoby někdo zabral veslem. Ani tak nemohu s jistotou říci, že jsem něco viděl, přestože s prvním paprskem světla jsem zahlédl cosi na hladině, kde nyní už nebylo nic.
+Chvíli jsem poslouchal, ale nepřišla žádná opověď. A pak, náhle jsem pojal neurčité podezření, že vlastně vůbec nevím co se ke mně blíží. Rychle jsem přistoupil ke kompasové skříni a vyňal rozsvícenou lampu. Ve stejný čas jsem zaklepal do paluby patou, abych vzbudil Willa. To už jsem stál na boku lodi a mířil žlutý kužel světla ven do tiché nesmírnosti za zábradlím. Jakmile jsem to udělal, uslyšel jsem mírný tlumený výkřik a pak zvuk šplouchnutí, jakoby někdo zabral veslem. Ani tak nemohu s jistotou říci, že jsem něco viděl, přestože s prvním paprskem světla jsem zahlédl cosi na hladině, kde nyní už nebylo nic.
 
 „Hej, vy tam!“ zavolal jsem. „Co je tohle za hlouposti?“ Ale ozvaly se jen nezřetelné zvuky člunu odrážejícího do noci. 
 
@@ -238,4 +237,4 @@ Ozval se zvuk pádla, další. Pak se hlas ozval znovu a naposledy. Přes mlhu z
 
 Rozhlédl jsem se kolem sebe a zjistil, že se blíží svítání. 
 
-Slunce vyslalo paprsek přes zakryté moře, proťalo mlhu a osvětlilo ustupující loď s ponurým ohněm. Nejasně jsem zahlédl něco kývajícího se mezi vesly. Připomělo mi to houbu... velkou, šedou kývající se houbu. Vesla dál veslovala. Byla šedá, stejně jako loď a mé oči chvíli hledali spojení ruky a vesla. Pohled se mi otisknul od paměti. Kývalo se to dopředu, jak pádla šla dozadu při záběru. Pak se vesla potopila, loď se odstala z paprku světla a... ta věc se zmizela v mlze.
+Slunce vyslalo paprsek přes zakryté moře, proťalo mlhu a osvětlilo ustupující loď ponurým světlem. Nejasně jsem zahlédl něco kývajícího se mezi vesly. Připomělo mi to houbu... velkou, šedou kývající se houbu. Vesla dál zabírala. Byla šedá, stejně jako loď a mé oči chvíli hledali spojení ruky a vesla. Pohled se mi otisknul od paměti. Kývalo se to dopředu, jak pádla šla dozadu při záběru. Pak se vesla potopila, loď se odstala z paprku světla a... ta věc se ztratila v mlze.
